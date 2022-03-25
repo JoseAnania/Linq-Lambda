@@ -1,0 +1,14 @@
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.exe
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.deps.json
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.runtimeconfig.json
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.runtimeconfig.dev.json
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.dll
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\bin\Debug\netcoreapp3.1\LambdaLinq.pdb
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.csproj.AssemblyReference.cache
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.AssemblyInfoInputs.cache
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.AssemblyInfo.cs
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.csproj.CoreCompileInputs.cache
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.dll
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.pdb
+D:\Dev\C#\Consola\Linq\LambdaLinq\LambdaLinq\obj\Debug\netcoreapp3.1\LambdaLinq.genruntimeconfig.cache
